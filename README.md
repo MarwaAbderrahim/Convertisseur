@@ -23,3 +23,4 @@ To run the app, you must have 'Python' installed on your machine. You will also 
 - 'Convert and save': to convert one or many files
 - 'Extract & metadata':to extract metadata in csv file. You should enter the name of the csv file + '.csv'
 
+Version python utilisé:  Python 3.9.12 
