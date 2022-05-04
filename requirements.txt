@@ -1,4 +1,4 @@
-﻿dicom2nifti==2.3.0
+dicom2nifti==2.3.0
 nibabel==3.2.2
 numpy==1.22.2
 Pillow==9.0.1
@@ -7,3 +7,5 @@ scipy==1.8.0
 SimpleITK==2.1.1
 DicomRTTool==0.4.2
 tqdm==4.64.0
+pandas==1.4.2
+tk
