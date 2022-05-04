@@ -29,7 +29,7 @@ def call_home_page():
     home_page.grid(row=0, column=0, sticky='nsew')
     title = Label(home_page, text='Abys Medical Converter', bg=bg, fg='Black', font='Arial 30 ')
     title.pack(pady=(20,0))
-    image = Image.open('C:/Users/Marwa/OneDrive - ABYS MEDICAL/Images/logo.png')
+    image = Image.open('utils/img.png')
     image=image.resize((250,100))
     photo = ImageTk.PhotoImage(image)
     label = Label(root, image = photo)
