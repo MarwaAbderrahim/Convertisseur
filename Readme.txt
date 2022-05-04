@@ -9,7 +9,7 @@ And all this conversions can be done both, in one file or in a whole directory.
 
 To run the app, you must have 'Python' installed on your machine. You will also need some prerequisites, which you can easily install from the file provided with this folder.
 
-1. Downlod the fonvertiseur folder
+1. Downlod the convertiseur folder
 
 2. Install the requirements.txt file using 'pip install -r requirements.txt'
 
