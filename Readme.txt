@@ -17,6 +17,7 @@ To run the app, you must have 'Python' installed on your machine. You will also 
 
 -------------------
 
-- 'Open File': to open and convert one file only.
-- 'Open Dir': to open and convert a multiple files at the same directory will be converted in one click.
+- 'Open File': to open and convert one file only and chose the name of the file .nii.
+
+- 'Open Dir': to open and convert a multiple files at the same directory will be converted in one click juste you need to chose the diractory to save files.
 
