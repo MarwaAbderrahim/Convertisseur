@@ -4,6 +4,6 @@ numpy==1.22.2
 Pillow==9.0.1
 pydicom==2.2.2
 scipy==1.8.0
-SimpleITK==2.1.1.1
+SimpleITK==2.1.1
 DicomRTTool==0.4.2
 tqdm==4.64.0
