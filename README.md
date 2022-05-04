@@ -24,6 +24,7 @@ To run the app, you must have 'Python' installed on your machine. You will also 
 - 'Extract & metadata':to extract metadata in csv file. You should enter the name of the csv file + '.csv'
 
 Version python utilisé:  Python 3.9.12 
+
 Operating system used : Windows
 
 PS: main.exe and utils should be in the some folder.
