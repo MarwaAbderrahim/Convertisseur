@@ -35,5 +35,5 @@ PS:
 - main.exe and utils should be in the some folder.
 - Dicom images should have the some number of slices in the x, and y axses.  
 - To bypass 'Windows protected your PC' message in Windows 10 
-      - It is necessary to click on the more info link underneath the description to bypass the Windows protected your PC SmartScreen message.
-      - You need to select "run anyway" then to run the program on the system.
+        - It is necessary to click on the more info link underneath the description to bypass the Windows protected your PC SmartScreen message.
+        - You need to select "run anyway" then to run the program on the system.
