@@ -27,7 +27,7 @@ To run the app, you must have 'Python' installed on your machine. You will also 
 
 Version python utilisé:  Python 3.9.12 
 
-Operating system used : Windows
+Operating system used : Windows 10
 
 ----------------------------------------------------------------------------------------
 
